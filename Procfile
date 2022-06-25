@@ -1,2 +1,1 @@
-worker: pip install telminal
-worker: telminal
+worker: python script.py
